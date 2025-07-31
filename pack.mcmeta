@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "name": "My Pack",
+        "id": "lapras",
+        "meta": "Laprastaur",
+        "version": "1.0.0",
+        "description": "Origin for the Lapras-Taur.",
+        "pack_format": 15
+    }
+}

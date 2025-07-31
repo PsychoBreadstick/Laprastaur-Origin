@@ -1,0 +1,12 @@
+{
+    "name": "§b§l§nLapras Bulk",
+    "description": "§fYour bulky body of a Lapras, while heavy to the point of preventing knockback, mounting entities (except boats), and elytra fight, is very capable of surviving, granting you a second row of total hearts.",
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "addition",
+        "value": 20,
+        "name": "Lapras Health Increase"
+    },
+    "update_health": true
+}
