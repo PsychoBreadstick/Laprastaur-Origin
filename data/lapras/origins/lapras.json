@@ -14,7 +14,6 @@
         "lapras:lapras_water_absorb",
         "lapras:lapras_transport",
         "lapras:berry_devourer",
-        "origins:water_vision",
         "origins:aqua_affinity",
         "origins:like_water",
         "origins:aquatic",
@@ -39,7 +38,8 @@
         "lapras:lapras_dismount",
         "lapras:lapras_shell_toughness",
         "lapras:lapras_jumpspeed",
-        "lapras:lapras_invincibility"
+        "lapras:lapras_invincibility",
+		"lapras:water_vision"
     ],
     "icon": {
         "item": "minecraft:allay_spawn_egg"

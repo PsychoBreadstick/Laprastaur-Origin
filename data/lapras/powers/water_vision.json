@@ -1,0 +1,11 @@
+{
+    "name": "Water Vision",
+    "description": "My own water vision power because the Origins keybind toggle for it is kinda dumb",
+    "hidden": true,
+    "condition": {
+        "type": "origins:submerged_in",
+        "fluid": "minecraft:water"
+    },
+    "type": "origins:night_vision",
+    "strength": 0.1
+}
